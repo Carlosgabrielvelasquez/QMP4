@@ -1,3 +1,3 @@
-public interface ProovedorDelClima {
+public interface ProveedorDelClima {
     public Double getProbabilidadPrecipitacion();
 }

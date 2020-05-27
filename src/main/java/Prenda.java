@@ -6,8 +6,7 @@ public class Prenda {
     BigDecimal temperaturaMax;
     BigDecimal temperaturaMin;
 
-    public boolean esAdecuadaPara (BigDecimal temperatura){
-        // Administrador.getTemperatura();
+    public boolean esAdecuadaPara (BigDecimal temperaturaMax,BigDecimal temperaturaMin){
 
         //TODO implementacion correcta
         return true ;

@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.Map;
 
-public class AddapterAccuWeather implements ProovedorDelClima {
+public class AddapterAccuWeather implements ProveedorDelClima {
     AccuWeatherAPI apiClima = new AccuWeatherAPI();
     List<Map<String, Object>> condicionesClimaticas;
 
